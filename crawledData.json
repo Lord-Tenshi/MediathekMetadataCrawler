@@ -1,121 +1,121 @@
-{
+[ {
   "title" : "Übung zu PGM-PP: Training eines Bayesian Networks mit GeNIe",
   "description" : "Übung zum Lernen von bedingten Wahrscheinlichkeiten im Rahmen der Lehrveranstaltung Advanced Topics der AI: \"Grundlagen Probabilistisch grafischer Modelle und Probabilistischer Programmierung\" umfasst: Datenaufbereitung, Diskretisierung numerischer Zufallsvariablen, Generierung von Knoten für GeNIe, Modellierung des BN, BMapping der Daten auf die Knoten, Training mit unterschiedlichen Netzwerkstrukturen",
   "tags" : [ "datenaufbereitung", "diskretisierung", "genie", "bayesian networks", "bn", "parameter lernen" ],
   "categories" : [ "Kategorien: Informatik, Semantische Modellierung" ]
-}{
+}, {
   "title" : "EKD schnelle Skizze",
   "description" : "EKD schnelle Skizze recover",
   "tags" : [ "ekd", "ekd_recover" ],
   "categories" : [ "Kategorien: Werkstofftechnik" ]
-}{
+}, {
   "title" : "OKR Teil 2 - Objectives und Key Results erstellen - mit Sandra Pretzer - Agile und OKR Coach",
   "description" : "Einführung in das Framework und Anleitung zu einer Übung, um Produktvision und OKR zu üben.",
   "tags" : [ "produktentwicklung", "produktinnovation", "produktvision", "ziele" ],
   "categories" : [ "Kategorien: Informatik, Medieninformatik" ]
-}{
+}, {
   "title" : "Gefüge im EKD",
   "description" : "Welche Gefüge sind in welchem Phasenfeld des EKD stabil. Beschriftung des EKD und Erläuterung der Gefüge: Perlit (eutektoides Gefüge) und Ledeburit (eutektisches Gefüge)",
   "tags" : [ "lightboard", "ekd", "gefüge" ],
   "categories" : [ "Kategorien: HTW Berlin, Ingenieurwissenschaften, Werkstofftechnik, Maschinenbau" ]
-}{
+}, {
   "title" : "EKD Perlitischer Stahl",
   "description" : "Bei Abkühlung aus dem Austentigebeit wird anhand der schematischen Abkühlkurve und Gefügeskizzen in Abhängigkeit von der Temperatur die Phasenreaktionen und Gefügeentstehung eines rein perlitischen Stahls erläutert. Wichtig ist dabei, was passiert, wenn Entmischungslinien beim Abkühlvorgang unterschritten werden.",
   "tags" : [ "ekd", "perlit" ],
   "categories" : [ "Kategorien: HTW Berlin, Ingenieurwissenschaften, Werkstofftechnik, Maschinenbau" ]
-}{
+}, {
   "title" : "MAS Vorlesung - Signavio Process Governance SoSe2022",
   "description" : "Was sind Workflows? Live-Demo von Signavio Process Governance",
   "tags" : [ "wi", "mas", "digitale transformation" ],
   "categories" : [ "Kategorien: Semantische Modellierung" ]
-}{
+}, {
   "title" : "OKR Teil 1 - Produktvision und OKR (Objectives and Key Results) Framework - mit Sandra Pretzer - Agile und OKR Coach",
   "description" : "Einführung in das Framework und Anleitung zu einer Übung, um Produktvision und OKR zu üben.",
   "tags" : [ "produktentwicklung", "produktinnovation", "produktvision", "ziele" ],
   "categories" : [ "Kategorien: Informatik, Medieninformatik" ]
-}{
+}, {
   "title" : "VL Datenbanken 6.1 SQL",
   "description" : "Vorlesung Datenbanken, IMI, Abschnitt 6.1: SQL",
   "tags" : [ "datenbanken sql" ],
   "categories" : [ "Kategorien: Informatik, Medieninformatik" ]
-}{
+}, {
   "title" : "ADTT0405_22",
   "description" : "MBA&E Alternative Drive Train Technologies",
   "tags" : [ "alternative drive train technologies" ],
   "categories" : [ "Kategorien: Wirtschaftswissenschaften" ]
-}{
+}, {
   "title" : "ADTT2604_22",
   "description" : "MBA&E Alternative Drive Train Technologies",
   "tags" : [ "alternative drive train technologies" ],
   "categories" : [ "Kategorien: Wirtschaftswissenschaften" ]
-}{
+}, {
   "title" : "ADTT2704_22",
   "description" : "MBA&E Alternative Drive Train Tehnologies",
   "tags" : [ "alternative drive train technologies" ],
   "categories" : [ "Kategorien: Wirtschaftswissenschaften, Energietechnik / Umwelttechnik" ]
-}{
+}, {
   "title" : "Roboter - Einarmroboter - Sortierprozess",
   "description" : "Im Rahmen eines fachübergreifenden Projekts wurde von einem 2er-Team eine Systemumgebung entwickelt, konstruiert und aufgebaut, die dem Einarmroboter (Firma: Universal Robotics;Typ: UR3) das Sortieren von zylinderförmigen Werkstücken ermöglicht. In der Werkstückzuführung wird die Materialart und Materialfarbe mit Hilfe von Industriesensoren detektiert. Der Einarmroboter sortiert die Werkstücke in die entsprechenden Ablagen. Die Entwicklungs- und Fertigungszeit betrug ein Semester. Fachbereich 2 - Herr Prof. Dr. Stephan Matzka - Labor Mechatronik -",
   "tags" : [ "einarmroboter", "ur3", "roboter", "universal robots", "ur" ],
   "categories" : [ "Kategorien: Ingenieurwissenschaften" ]
-}{
+}, {
   "title" : "Intercultural communication Lecture 3.3",
   "description" : "Last part of the lecture on power in ICC",
   "tags" : [ "intercultural communication;" ],
   "categories" : [ "Kategorien: HTW Berlin, Kommunikation" ]
-}{
+}, {
   "title" : "Intercultural Communication Lecture 2.1",
   "description" : "This is the first part of Lecture 2 of the course Intercultural Communication.",
   "tags" : [ "intercultural communication;" ],
   "categories" : [ "Kategorien: HTW Berlin, Kommunikation" ]
-}{
+}, {
   "title" : "Betriebssysteme und Netzwerke: Scheduling",
   "description" : "Prozessschedulingverfahren",
   "tags" : [ "scheduling. betriebssysteme" ],
   "categories" : [ "Kategorien: Informatik" ]
-}{
+}, {
   "title" : "ADTT2004_22",
   "description" : "MBA&E Alternative Drive Train Technologie",
   "tags" : [ "e-mobility mba&amp;amp;e" ],
   "categories" : [ "Kategorien: HTW Berlin, Wirtschaftswissenschaften, Ingenieurwissenschaften" ]
-}{
+}, {
   "title" : "Bewegte Pause - Rückengesundheit",
   "description" : "In diesem kurzen Video von unserem Partner MoveUp können Sie Ihrem Rücken eine verdiente Pause gönnen. Unter Anleitungen wird in diesem 10-minütigen Workout Ihre komplette Wirbelsäule schonend mobilisiert und gestärkt. Regelmäßige Bewegung im Alltag beugt Verspannungen und Erkrankungen vor, also kommen Sie gerne immer wieder zurück!",
   "tags" : [ "rückengesundheit", "bgm", "betriebliches gesundheitsmanagement", "rücken", "moveup", "digitale gesundheitsförderung", "bewegte pause", "aktive pause" ],
   "categories" : [ "Kategorien: HTW Berlin" ]
-}{
+}, {
   "title" : "Konstruieren mit Faserverbundwerkstoffen - 2",
   "description" : "FVW: Bauteilformen, uni- und multidirektionale Fasern, Defekte, Eigenspannungen, Wandstärke",
   "tags" : [ "faserverbundwerkstoffe", "werkstofftechnik" ],
   "categories" : [ "Kategorien: Werkstofftechnik, Maschinenbau" ]
-}{
+}, {
   "title" : "Konstruieren mit Faserverbundwerkstoffen - 1",
   "description" : "FVW: Belastungsrichtung, Kraftart, Krafteinleitung, Profilform, Versteifung, Symmetrie",
   "tags" : [ "faserverbundwerkstoffe", "werkstofftechnik" ],
   "categories" : [ "Kategorien: Werkstofftechnik, Maschinenbau" ]
-}{
+}, {
   "title" : "00 MAS-Vorlesung - Digitale Transformation SoSe2022",
   "description" : "Modellierung von Anwendungssystemen im Kontext der Digitalen Transformation",
   "tags" : [ "wi", "mas", "digitale transformation" ],
   "categories" : [ "Kategorien: Semantische Modellierung" ]
-}{
+}, {
   "title" : "Laser für die Dünnschicht-Photovoltaik",
   "description" : "Laser-Material-Bearbeitung und Funktionsweise von Dünnschichtsolarzellen",
   "tags" : [ "photovoltaik", "solarenergie", "laser", "dünne schichten", "materialbearbeitung", "solarzelle" ],
   "categories" : [ "Kategorien: Naturwissenschaften, Energietechnik / Umwelttechnik, Physik" ]
-}{
+}, {
   "title" : "Osteraktion Lehrenden-Service-Center (LSC)",
   "description" : "Video-Teaser zur Osteraktion des Lehrenden-Service-Centers (LSC) am 19.04.2022.",
   "tags" : [ "lsc", "ostern", "lehrgut" ],
   "categories" : [ "Kategorien: HTW Berlin, Kommunikation" ]
-}{
+}, {
   "title" : "Bestimmung der Erdbeschleunigung g (Auswertung)",
   "description" : "Auswertung des Laborversuchs \"Bestimmung der Erdbeschleunigung g\"",
   "tags" : [ "physik", "labor" ],
   "categories" : [ "Kategorien: Physik" ]
-}{
+}, {
   "title" : "Audiovorlesung_StraMa_11.04.2022",
   "description" : "Vorlesung als Audio Datei",
   "tags" : [ "strama" ],
   "categories" : [ "Kategorien: HTW Berlin, Wirtschaftswissenschaften" ]
-}
+} ]

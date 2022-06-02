@@ -36,12 +36,8 @@ public class Crawler {
         ObjectMapper mapper = new JsonMapper();
         FileWriter writer = new FileWriter("crawledData.json");
 
-        StringBuilder sb = new StringBuilder();
-        for (Medium medium : media) {
-            String jsonMedium = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(medium);
-            sb.append(jsonMedium);
-        }
-        writer.write(sb.toString());
+        String jsonMedium = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(media);
+        writer.write(jsonMedium);
         writer.close();
     }
 
