@@ -1,121 +1,741 @@
 [ {
+  "title" : "Deutschland heute Teil 2",
+  "description" : "Deutschland heute Teil 2",
+  "tags" : [ "awe globalisierung" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 5 Konformität",
+  "description" : "Konfomitätsverfahren nach IEC",
+  "tags" : [ "awe internationale standardisierung teil 5 konformität" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 7",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 8",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 9",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 6",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 2",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 3",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 4",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 5",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 1",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 2-1 EU",
+  "description" : "Rolle der EU in der europäischen Standardissierung",
+  "tags" : [ "awe internationale standardisierung teil 2-1 eu" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Kommunikation", "Naturwissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "Bionik - Ein Experteninterview; Fragen von HTW-Student Melvin Drenske an Prof. Hentschel, WS 2021/22 (17 min)",
+  "description" : "Melvin Drenske (Studiengang BWL) stellt Fragen zum Thema \"Bionik\" im Fach \"Methoden der Produktentstehung\" (Vertiefung Produktion).",
+  "tags" : [ "nachhaltigkeit", "sb 33.2", "sb 8", "bionik", "prof. claudia hentschel" ],
+  "categories" : [ "HTW Berlin", "Wirtschaftswissenschaften", "Maschinenbau", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 1",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 2",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 3",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 4",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "LE 10 - Satz des Tages",
+  "description" : "LE 10 - Satz des Tages",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "LE-10 Fragmentierte Softwarelandschaft und doch end-to-end Automatisieren als Ziel",
+  "description" : "LE-10 Fragmentierte Softwarelandschaft und doch end-to-end Automatisieren als Ziel",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "LE 9 - Erforschendes Prozessmanagement - 14 min",
+  "description" : "LE 9 - Erforschendes Prozessmanagement - 14 min",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "LE 9 -Strategie - Geschäftsmodelle und BPM",
+  "description" : "LE 9 -Strategie - Geschäftsmodelle und BPM",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "Satz im Fokus zur Erwartungsmanagement und Fixe-und variable Punkte - 10 Minuten",
+  "description" : "Satz im Fokus zur Erwartungsmanagement und Fixe-und variable Punkte - 10 Minuten",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "AWE Digitalisierung - LE 8 - BPMN und User Story",
+  "description" : "8 BPMN und User Story",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "LE 7 - Organisationsentwicklung - Video 30 Min",
+  "description" : "LE 7 - Organisationsentwicklung - Video 30 Min",
+  "tags" : [ "awe digitalisierung und prozesssmanagement" ],
+  "categories" : [ "AWE" ]
+}, {
+  "title" : "Präsentation \"Zwei-Faktor-Authentifikation\" von Kurt-Kester Leißering für Datenschutz und Datensicher am 27.06.2022",
+  "description" : "siehe Titel",
+  "tags" : [ "2fa" ],
+  "categories" : [ "HTW Berlin", "Informatik" ]
+}, {
+  "title" : "Missbrauch von Fitnesstrackerdaten",
+  "description" : "Vortrag für Datenschutz und Datensicherheit",
+  "tags" : [ "datenschutz", "tracking", "datensicherheit", "google", "fitness", "apple" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "Einf. MM - draw-per-colortracking V2.0",
+  "description" : "Einf. MM - draw-per-colortracking V2.0",
+  "tags" : [ "ai;" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "BSc International Media and Computer in 60 seconds",
+  "description" : "BSc International Media and Computer in 60 seconds",
+  "tags" : [ "internationaler studengang medieninformatik" ],
+  "categories" : [ "HTW Berlin", "Informatik", "Medieninformatik" ]
+}, {
+  "title" : "RTOS - Einführung",
+  "description" : "RTOS - Einführung",
+  "tags" : [ "ce", "rtos", "ce31", "embeddedsystems" ],
+  "categories" : [ "Informatik", "Softwareentwicklung" ]
+}, {
+  "title" : "CE31 RTOS - STM32CubeIDE-FreeRTOS",
+  "description" : "CE31 RTOS - STM32CubeIDE-FreeRTOS",
+  "tags" : [ "ce", "stm32", "freertos", "ce31", "embeddedsystems" ],
+  "categories" : [ "Informatik", "Softwareentwicklung" ]
+}, {
+  "title" : "Einf. MultiMedia Projektarbeit",
+  "description" : "Selbst implementiertes RGB tracking womit man auf einem zweiten canvas malen kann",
+  "tags" : [ "multimedia;" ],
+  "categories" : [ "HTW Berlin", "Informatik", "Medieninformatik" ]
+}, {
+  "title" : "AKMA - Optische Datenübertragung per PWM",
+  "description" : "Projektarbeit im Rahmen des Moduls ausgewählte Kapitel mobiler Anwendungen im Bachloer Angewandte Informatik.",
+  "tags" : [ "pulsweitenmodulation; pwm;" ],
+  "categories" : [ "HTW Berlin", "Informatik" ]
+}, {
   "title" : "Übung zu PGM-PP: Training eines Bayesian Networks mit GeNIe",
   "description" : "Übung zum Lernen von bedingten Wahrscheinlichkeiten im Rahmen der Lehrveranstaltung Advanced Topics der AI: \"Grundlagen Probabilistisch grafischer Modelle und Probabilistischer Programmierung\" umfasst: Datenaufbereitung, Diskretisierung numerischer Zufallsvariablen, Generierung von Knoten für GeNIe, Modellierung des BN, BMapping der Daten auf die Knoten, Training mit unterschiedlichen Netzwerkstrukturen",
   "tags" : [ "datenaufbereitung", "diskretisierung", "genie", "bayesian networks", "bn", "parameter lernen" ],
-  "categories" : [ "Kategorien: Informatik, Semantische Modellierung" ]
-}, {
-  "title" : "EKD schnelle Skizze",
-  "description" : "EKD schnelle Skizze recover",
-  "tags" : [ "ekd", "ekd_recover" ],
-  "categories" : [ "Kategorien: Werkstofftechnik" ]
+  "categories" : [ "Informatik", "Semantische Modellierung" ]
 }, {
   "title" : "OKR Teil 2 - Objectives und Key Results erstellen - mit Sandra Pretzer - Agile und OKR Coach",
   "description" : "Einführung in das Framework und Anleitung zu einer Übung, um Produktvision und OKR zu üben.",
   "tags" : [ "produktentwicklung", "produktinnovation", "produktvision", "ziele" ],
-  "categories" : [ "Kategorien: Informatik, Medieninformatik" ]
-}, {
-  "title" : "Gefüge im EKD",
-  "description" : "Welche Gefüge sind in welchem Phasenfeld des EKD stabil. Beschriftung des EKD und Erläuterung der Gefüge: Perlit (eutektoides Gefüge) und Ledeburit (eutektisches Gefüge)",
-  "tags" : [ "lightboard", "ekd", "gefüge" ],
-  "categories" : [ "Kategorien: HTW Berlin, Ingenieurwissenschaften, Werkstofftechnik, Maschinenbau" ]
-}, {
-  "title" : "EKD Perlitischer Stahl",
-  "description" : "Bei Abkühlung aus dem Austentigebeit wird anhand der schematischen Abkühlkurve und Gefügeskizzen in Abhängigkeit von der Temperatur die Phasenreaktionen und Gefügeentstehung eines rein perlitischen Stahls erläutert. Wichtig ist dabei, was passiert, wenn Entmischungslinien beim Abkühlvorgang unterschritten werden.",
-  "tags" : [ "ekd", "perlit" ],
-  "categories" : [ "Kategorien: HTW Berlin, Ingenieurwissenschaften, Werkstofftechnik, Maschinenbau" ]
-}, {
-  "title" : "MAS Vorlesung - Signavio Process Governance SoSe2022",
-  "description" : "Was sind Workflows? Live-Demo von Signavio Process Governance",
-  "tags" : [ "wi", "mas", "digitale transformation" ],
-  "categories" : [ "Kategorien: Semantische Modellierung" ]
+  "categories" : [ "Informatik", "Medieninformatik" ]
 }, {
   "title" : "OKR Teil 1 - Produktvision und OKR (Objectives and Key Results) Framework - mit Sandra Pretzer - Agile und OKR Coach",
   "description" : "Einführung in das Framework und Anleitung zu einer Übung, um Produktvision und OKR zu üben.",
   "tags" : [ "produktentwicklung", "produktinnovation", "produktvision", "ziele" ],
-  "categories" : [ "Kategorien: Informatik, Medieninformatik" ]
+  "categories" : [ "Informatik", "Medieninformatik" ]
 }, {
   "title" : "VL Datenbanken 6.1 SQL",
   "description" : "Vorlesung Datenbanken, IMI, Abschnitt 6.1: SQL",
   "tags" : [ "datenbanken sql" ],
-  "categories" : [ "Kategorien: Informatik, Medieninformatik" ]
-}, {
-  "title" : "ADTT0405_22",
-  "description" : "MBA&E Alternative Drive Train Technologies",
-  "tags" : [ "alternative drive train technologies" ],
-  "categories" : [ "Kategorien: Wirtschaftswissenschaften" ]
-}, {
-  "title" : "ADTT2604_22",
-  "description" : "MBA&E Alternative Drive Train Technologies",
-  "tags" : [ "alternative drive train technologies" ],
-  "categories" : [ "Kategorien: Wirtschaftswissenschaften" ]
-}, {
-  "title" : "ADTT2704_22",
-  "description" : "MBA&E Alternative Drive Train Tehnologies",
-  "tags" : [ "alternative drive train technologies" ],
-  "categories" : [ "Kategorien: Wirtschaftswissenschaften, Energietechnik / Umwelttechnik" ]
-}, {
-  "title" : "Roboter - Einarmroboter - Sortierprozess",
-  "description" : "Im Rahmen eines fachübergreifenden Projekts wurde von einem 2er-Team eine Systemumgebung entwickelt, konstruiert und aufgebaut, die dem Einarmroboter (Firma: Universal Robotics;Typ: UR3) das Sortieren von zylinderförmigen Werkstücken ermöglicht. In der Werkstückzuführung wird die Materialart und Materialfarbe mit Hilfe von Industriesensoren detektiert. Der Einarmroboter sortiert die Werkstücke in die entsprechenden Ablagen. Die Entwicklungs- und Fertigungszeit betrug ein Semester. Fachbereich 2 - Herr Prof. Dr. Stephan Matzka - Labor Mechatronik -",
-  "tags" : [ "einarmroboter", "ur3", "roboter", "universal robots", "ur" ],
-  "categories" : [ "Kategorien: Ingenieurwissenschaften" ]
-}, {
-  "title" : "Intercultural communication Lecture 3.3",
-  "description" : "Last part of the lecture on power in ICC",
-  "tags" : [ "intercultural communication;" ],
-  "categories" : [ "Kategorien: HTW Berlin, Kommunikation" ]
-}, {
-  "title" : "Intercultural Communication Lecture 2.1",
-  "description" : "This is the first part of Lecture 2 of the course Intercultural Communication.",
-  "tags" : [ "intercultural communication;" ],
-  "categories" : [ "Kategorien: HTW Berlin, Kommunikation" ]
+  "categories" : [ "Informatik", "Medieninformatik" ]
 }, {
   "title" : "Betriebssysteme und Netzwerke: Scheduling",
   "description" : "Prozessschedulingverfahren",
   "tags" : [ "scheduling. betriebssysteme" ],
-  "categories" : [ "Kategorien: Informatik" ]
+  "categories" : [ "Informatik" ]
 }, {
-  "title" : "ADTT2004_22",
-  "description" : "MBA&E Alternative Drive Train Technologie",
-  "tags" : [ "e-mobility mba&amp;amp;e" ],
-  "categories" : [ "Kategorien: HTW Berlin, Wirtschaftswissenschaften, Ingenieurwissenschaften" ]
+  "title" : "Gruppe 6 | DNA Computing – Berechnen und Speichern von Informationen auf DNA-Basis | Wissenschaftliches Arbeiten",
+  "description" : "Ole Lordieck 582145 Emilia Lembeck 583207 Alexey Zhovner 581884 Franz Oliver Busch 583657 Pedro André Sanchez Valdivieso de Souza 582986",
+  "tags" : [ "wissenschaftliches arbeiten", "dna" ],
+  "categories" : [ "Informatik" ]
 }, {
-  "title" : "Bewegte Pause - Rückengesundheit",
-  "description" : "In diesem kurzen Video von unserem Partner MoveUp können Sie Ihrem Rücken eine verdiente Pause gönnen. Unter Anleitungen wird in diesem 10-minütigen Workout Ihre komplette Wirbelsäule schonend mobilisiert und gestärkt. Regelmäßige Bewegung im Alltag beugt Verspannungen und Erkrankungen vor, also kommen Sie gerne immer wieder zurück!",
-  "tags" : [ "rückengesundheit", "bgm", "betriebliches gesundheitsmanagement", "rücken", "moveup", "digitale gesundheitsförderung", "bewegte pause", "aktive pause" ],
-  "categories" : [ "Kategorien: HTW Berlin" ]
+  "title" : "Gruppe 7 Teil 4 RSI und Schlussüberlegungen",
+  "description" : "Bitcoin Anlagestrategieanalyse Gruppe 7 Teil 4",
+  "tags" : [ "bitcoin data science rsi" ],
+  "categories" : [ "Informatik" ]
 }, {
-  "title" : "Konstruieren mit Faserverbundwerkstoffen - 2",
-  "description" : "FVW: Bauteilformen, uni- und multidirektionale Fasern, Defekte, Eigenspannungen, Wandstärke",
-  "tags" : [ "faserverbundwerkstoffe", "werkstofftechnik" ],
-  "categories" : [ "Kategorien: Werkstofftechnik, Maschinenbau" ]
+  "title" : "Wissenschaftliches Arbeiten_Gruppe 7_Internet der Dinge(IoT) - Gesundheitswesen",
+  "description" : "Abgabe Wissenschaftliches Arbeiten Kommilitonen:Calvin Vi,Tarik Selcuk Balci",
+  "tags" : [ "iot;internet der dinge" ],
+  "categories" : [ "Informatik" ]
 }, {
-  "title" : "Konstruieren mit Faserverbundwerkstoffen - 1",
-  "description" : "FVW: Belastungsrichtung, Kraftart, Krafteinleitung, Profilform, Versteifung, Symmetrie",
-  "tags" : [ "faserverbundwerkstoffe", "werkstofftechnik" ],
-  "categories" : [ "Kategorien: Werkstofftechnik, Maschinenbau" ]
+  "title" : "Bitcoin Handelsstrategien - Teil 1",
+  "description" : "Teil 1 von die Präsentation \"Bitcoin Handelstrategien\". Hier wird die EMA Crossover/Crossunder Strategie betrachtet. Mit einem Code aus Python werden wir alle Preise von 2013 bis 2021 analysieren und interpretieren, um zu schließen, ob die Strategie gut ist.",
+  "tags" : [ "data science", "bitcoin" ],
+  "categories" : [ "Informatik" ]
 }, {
-  "title" : "00 MAS-Vorlesung - Digitale Transformation SoSe2022",
-  "description" : "Modellierung von Anwendungssystemen im Kontext der Digitalen Transformation",
-  "tags" : [ "wi", "mas", "digitale transformation" ],
-  "categories" : [ "Kategorien: Semantische Modellierung" ]
+  "title" : "Gruppe 7 : Bitcoin Handelsstrategien (Einleitung)",
+  "description" : "Einleitung von Gruppearbeit (Gruppe 7). Modul : Grundlagen Sozialer Netze Thema : Bitcoin Handelsstrategien.",
+  "tags" : [ "data science", "bitcoin" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "B14_Abgabe_Gruppe_4_Cyberkriminalitaet_Angriffsstrategien_und_Schutzmoeglichkeiten",
+  "description" : "Dies ist die abzugebende Videopräsentation für den Kurs B14 Wissenschaftliches Arbeiten (WiSe2021/22). Kommilitonen: Linus Julius Gorecki, Philipp Hilsberg, Richard Middendorf, Raphael Walger.",
+  "tags" : [ "it", "gruppenabgabe", "it-sicherheit" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "Präsentation Wissenschaftliches Arbeiten Gruppe 3: Blockchain und Bürokratie; Tim Fausten, Tobias Grafmüller, Karl Körner",
+  "description" : "Präsentation für das Modul Wissenschaftliches Arbeiten bei Prof. Dr. Christin Schmidt, WS 2021/22 Gruppe 3: Blockchain und Bürokratie Gruppenmitglieder: Tim Fausten, Tobias Grafmüller, Karl Körner",
+  "tags" : [ "angewandte informatik", "wissenschaftliches arbeiten", "blockchain", "bürokratie" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "Abgabe-Gruppe 6-Berliner Wohnungsmarkt",
+  "description" : "Abgabe-Gruppe 6-Berliner Wohnungsmarkt Leon Zeidler Ferdinand Faller Jonas Glöckner Benjamin Naujoks Roldan",
+  "tags" : [ "abgabe" ],
+  "categories" : [ "HTW Berlin", "Informatik" ]
+}, {
+  "title" : "Clemens Zander und Leonas von Medem; Gruppen:5; KI: Exploration von Technologien, Anwendungen und Einflussfaktoren",
+  "description" : "Präsentationsprüfung Wissenschaftliches Arbeiten Gruppe 5 - Clemens Zander und Leonas von Medem",
+  "tags" : [ "ki; machine learning; neuronale netze" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "Abgaben mit Snap!",
+  "description" : "Eine kurze Anleitung, wie Aufgaben in Snap! bearbeitet und abgegeben werden können",
+  "tags" : [ "programmieren1", "snap!" ],
+  "categories" : [ "Informatik", "Programmierung" ]
+}, {
+  "title" : "Carrier Sense Multiple Access (CSMA)",
+  "description" : "Ich diskutiere ein paar Konzepte rund im CSMA. Hinweis: In Tanenbaum (Computernetzwerke) finden wir diese Verfahren im Layer 2. Bei Schreiber (Computernetzwerke) werden die Verfahren dem Layer 1 zugeordnet. Dem schließe ich mich an. Die Überlegungen sind schon sehr sehr nahe an der Hardware. In jedem Fall sind es Verfahren des Media-Access-Layers (MAC). Mit MAC werden die OSI-Schichten 1 und 2 auch zusammen gefasst.",
+  "tags" : [ "netzwerke", "csma" ],
+  "categories" : [ "Informatik" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 5 Konformität",
+  "description" : "Konfomitätsverfahren nach IEC",
+  "tags" : [ "awe internationale standardisierung teil 5 konformität" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 7",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 8",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 9",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 6",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 2",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 3",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 4",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 5",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 1",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 2-1 EU",
+  "description" : "Rolle der EU in der europäischen Standardissierung",
+  "tags" : [ "awe internationale standardisierung teil 2-1 eu" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Kommunikation", "Naturwissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "Denkanstöße für mehr Kunststoffe im Kreislauf",
+  "description" : "Elias Rogov, 577917, Gruppe 12",
+  "tags" : [ "controlling" ],
+  "categories" : [ "Energietechnik / Umwelttechnik", "Chemie" ]
+}, {
+  "title" : "06 - DNA-Replikation und Polymerase Chain Reaction (PCR)",
+  "description" : "Eine Herleitung der PCR aus der DNA-Replikation in Zellen.",
+  "tags" : [ "lightboard", "dna", "pcr" ],
+  "categories" : [ "Naturwissenschaften", "Chemie" ]
+}, {
+  "title" : "1. Vorlesung Verkehrswegebau 2",
+  "description" : "1. Vorlesung Verkehrswegebau",
+  "tags" : [ "1. vorlesung verkehrswegebau" ],
+  "categories" : [ "Bauingenieurwesen" ]
+}, {
+  "title" : "1. Vorlesung Verkehrswegebau 3",
+  "description" : "1. Vorlesung Verkehrswegebau",
+  "tags" : [ "1. vorlesung verkehrswegebau" ],
+  "categories" : [ "Bauingenieurwesen" ]
+}, {
+  "title" : "1. Vorlesung Verkehrswegebau 1",
+  "description" : "1. Vorlesung Verkehrswegebau",
+  "tags" : [ "1. vorlesung verkehrswegebau" ],
+  "categories" : [ "Bauingenieurwesen" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 5 Konformität",
+  "description" : "Konfomitätsverfahren nach IEC",
+  "tags" : [ "awe internationale standardisierung teil 5 konformität" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 7",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 8",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 9",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 6",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 2",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 3",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 4",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 5",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 1",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 2-1 EU",
+  "description" : "Rolle der EU in der europäischen Standardissierung",
+  "tags" : [ "awe internationale standardisierung teil 2-1 eu" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Kommunikation", "Naturwissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "Einführungsvideo Studium Digital am FB II 2020",
+  "description" : "Dieses Video enthält eine Präsentation die inhaltlich alle Websites und digitalen Dienste der HTW Berlin umfasst und Anleitungen zur Nutzung dieser behinhaltet.",
+  "tags" : [ "htw berlin", "vpn", "prüfungsordnung", "moodle", "fb2", "rechenzentrum", "digital", "lsf", "prüfungsordnung und module", "eduroam", "prüfungsanmeldung" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Mathematik", "Naturwissenschaften", "Ingenieurwissenschaften", "Hochschulrechenzentrum", "Maschinenbau" ]
+}, {
+  "title" : "Elektrotechnik-Absolvent Frank Heinrich über sein Studium an der HTW",
+  "description" : "Online-Studienwahl-Assistent",
+  "tags" : [ "osa", "absolvent", "elektrotechnik" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik" ]
+}, {
+  "title" : "Air Quality Monitor (IOT) - Abdul Hadi Aamir (ProITD)",
+  "description" : "Project Video Demonstration for the Internet of Things (IOT) course for the program Pro-ITD",
+  "tags" : [ "internet-of-things" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik" ]
+}, {
+  "title" : "ProITD | IOT on Cloud Project | Rishi Deorukhkar",
+  "description" : "This is a quick demo for my project IOT system on cloud.",
+  "tags" : [ "computer engineering" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 5 Konformität",
+  "description" : "Konfomitätsverfahren nach IEC",
+  "tags" : [ "awe internationale standardisierung teil 5 konformität" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 7",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 8",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 9",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 6",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 2",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 3",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 4",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 5",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 1",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 2-1 EU",
+  "description" : "Rolle der EU in der europäischen Standardissierung",
+  "tags" : [ "awe internationale standardisierung teil 2-1 eu" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Kommunikation", "Naturwissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 1",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 2",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 3",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 4",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "Laser-Strukturierung von Solarzellen: Untersuchung der Laser-Material-Wechselwirkungen und induzierten Materialveränderungen",
+  "description" : "invited Talk im 73. Arbeitskreis Systemzuverlässigkeit am Fraunhofer IZM 2021",
+  "tags" : [ "laser", "pv", "dünnschicht" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
+}, {
+  "title" : "FB1 WT Werkstoffe (LPr) - Anleitung zum Versuch der Bestimmung des Bestimmung des Sperrsättigungsstrom",
+  "description" : "Lehrfilm in Ergänzung zur Anleitung der Laborversuchs Bestimmung des Sperrsättigungsstrom Werkstoffe 1. Semester Bachelor",
+  "tags" : [ "diode", "sperrstrom" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
+}, {
+  "title" : "FB1 WT Werkstoffe (LPr) - Anleitung zum Versuch der Bestimmung der Mikrohärte",
+  "description" : "Lehrfilm in Ergänzung zur Anleitung des Laborversuchs Mikrohärte Werkstoffe 1. Semester Bachelor",
+  "tags" : [ "dünne schichten", "mikrohärte" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
+}, {
+  "title" : "FB1 WT Werkstoffe (LPr) - Anleitung zum Versuch der Bestimmung des Schichtwiderstandes",
+  "description" : "Lehrfilm in Ergänzung zur Anleitung des Laborversuchs Ellipsometrie Werkstoffe 1. Semester Bachelor",
+  "tags" : [ "ellipsometrie", "schichtdicke" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Ingenieurwissenschaften", "Physik" ]
+}, {
+  "title" : "Vorstellung Bachelor-Studiengang Elektrotechnik",
+  "description" : "Vorstellung des Studiengangs Elektrotechnik im Rahmen der Orientierungstage",
+  "tags" : [ "fb1", "elektrotechnik" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Ingenieurwissenschaften" ]
+}, {
+  "title" : "Vorlesung Netzwerke 13.7.2021 (Ethernet - Bridging Loops & STP)",
+  "description" : "Vorlesung Netzwerke 13.7.2021 (Ethernet - Bridging Loops & STP)",
+  "tags" : [ "netzwerke" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik" ]
+}, {
+  "title" : "Nahtzugversuch_Grabmethode",
+  "description" : "Zugversuch an textilen Flächen mit Nähten",
+  "tags" : [ "nahtzugversuch" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Kurven exportieren bei Rhino 3D",
+  "description" : "Kurven aus Rhino exportieren um sie z.B. in Adobe Illustrator weiterzubearbeiten oder als PDF auszudrucken bzw. als Schneidedatei für den Lasercutter zu verwenden",
+  "tags" : [ "imagefilm", "cad", "rapid prototyping" ],
+  "categories" : [ "Design", "Kulturwissenschaften" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Entwicklung, Gestaltung und Veröffentlichung des Studierendenmagazins item«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Entwicklung, Gestaltung und Veröffentlichung des Studierendenmagazins item« Sally Paschmann und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Templates – Ein aktueller Design-Katalog für zukünftige Themen«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Templates – Ein aktueller Design-Katalog für zukünftige Themen« Carsten Giese und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Putzen – eine brisante Kulturtechnik«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Putzen – eine brisante Kulturtechnik« Prof. Birgit Bauer und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Corporate Design in Kooperation mit Slow Food«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Corporate Design in Kooperation mit Slow Food« Laura Dreßler und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Sprechen ist das neue Tippen – Gestalten mit Sprache und Stimme«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Sprechen ist das neue Tippen – Gestalten mit Sprache und Stimme« Prof. Daniela Hensel und Stefanie Voß und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Signal, Beat, Rhythm : Advanced Experiments in Sound Design«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Signal, Beat, Rhythm : Advanced Experiments in Sound Design« Michael Kugler und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Build from Scratch – Webdesign 2021«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Build from Scratch – Webdesign 2021« Franz Mattuschka und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »How We Live Together - Wohnräume im fotografischen Diskurs«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »How We Live Together - Wohnräume im fotografischen Diskurs« Andreas Meichsner und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Real Virtuality - Das ästhetische Potenzial virtueller Welten«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Real Virtuality - Das ästhetische Potenzial virtueller Welten« Moritz Schell und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Einführung in den Schriftentwurf«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Einführung in den Schriftentwurf« Prof. Jürgen Huber und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Pictogramming«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 2: »Pictogramming« Prof. Jona Piehl und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Craving Future Realities II«",
+  "description" : "Werkschau 2021, Kommunikationsdesign, Stream 1: »Craving Future Realities II – Smart Intelligence« Prof. Andreas Ingerl und Studierende https://kd.htw-berlin.de/werkschau/",
+  "tags" : [ "werkschau" ],
+  "categories" : [ "Design" ]
+}, {
+  "title" : "Beantwortung von Fragen: Markierungsfarben Ebenen",
+  "description" : "Was hat es mit der Farbe markierter Objekte in verschieden Ebenen auf sich? Und wie kannich diese ändern?",
+  "tags" : [ "bekleidungstechnik", "illustrator" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Beantwortung von Fragen: Anlegen Pinselbibliothek",
+  "description" : "Fragen zu Belegabgabe SoSe 2021: Was ist u.a. wichtig beim Anlegen einer Pinselbibliothek? Achtet darauf, dass die dargestellten Nähte auf der Zeichenfläche aus der Pinselbibliothek angewandt sind - sprich Verbindung zum Pinselbedienfeld haben!",
+  "tags" : [ "bekleidungstechnik", "illustrator" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator WiSe 2020/21 Bekleidungsgestaltung: Erstellen eines Moodboards",
+  "description" : "Illustrator: Format festlegen, Bilder platzieren, Bilder skalieren Photoshop: Motive freistellen, Bilder retuschieren Layout mit Illustrator: Freigestellte Bilder platzieren und einbetten, Bilder beschneiden und farblich verändern, Transparenzen und Effekte, Anordnung von Objekten, Text",
+  "tags" : [ "mode", "bekleidungstechnik", "adobe", "illustrator", "photoshop" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator: Modul 8+9, SL SoSe 2021 Bekleidungsgestaltung: Jetzt wird´s bunt!",
+  "description" : "Arbeiten mit Farbe Arbeiten mit Musterfüllungen und RapportenDatei Datei Datei",
+  "tags" : [ "ode adobe illustrator design bekleidung" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator: Modul 7, SL SoSe 2021 Bekleidungsgestaltung: Style-Bibliothek",
+  "description" : "Style-Bibliothek für Grundschnitte und Details erstellen Varianten entwickeln",
+  "tags" : [ "mode", "bekleidungstechnik", "adobe", "illustrator", "design" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator: Modul 6, SL SoSe 2021 Bekleidungsgestaltung: Nähte",
+  "description" : "Nahtlinien erstellen und speichern: Steppstich-Nähte, Zickzack-Nähte, Rippbündchen Erstellen einer Pinsel-Bibliothek für Nähte Verwaltung von Pinsel-Bibliotheken",
+  "tags" : [ "mode", "bekleidungstechnik", "adobe", "illustrator", "design", "bekleidungsgestaltung", "bekleidung", "adobe illustrator" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator Modul 5, SL SoSe 2021 Bekleidungsgestaltung: Style-Bibliothek - Details",
+  "description" : "Tipps & Tricks: Detaillösungen: Rundhalsbündchen, Umlegekragen mit Steg, Manschetten, Knopfleisten & Knöpfe",
+  "tags" : [ "mode", "bekleidungstechnik", "adobe", "illustrator", "design", "bekleidungsgestaltung", "bekleidung", "adobe illustrator" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator Modul 3+4, SL SoSe 2021 Bekleidungsgestaltung: Figurine und Baukasten-System",
+  "description" : "MODUL 3: Aufbau einer Style-Bibliothek im Baukasten-System- Erstellen einer Figurinenvorlage MODUL 4: Aufbau einer Style-Bibliothek im Baukasten-System- Grundschnitt-Silhouetten",
+  "tags" : [ "mode", "bekleidungstechnik", "bekleidungsgestaltung", "adobe illustrator" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Transferplott auf Textilien",
+  "description" : "Erstellen von Transferplotts zur Übertragung auf Textilien",
+  "tags" : [ "plott transfer textil" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "Adobe Illustrator Modul 2, Bekleidungsgestaltung: Übung Tank-Top erstellen",
+  "description" : "Kurze Wiederholung zu Lektion 2 aus Modul 2: Unsere erste Modellskizze, Zeichnen von Grundschnitt-Silhouetten",
+  "tags" : [ "mode", "bekleidungsgestaltung", "adobe illustrator" ],
+  "categories" : [ "Design", "Mode und Bekleidung" ]
+}, {
+  "title" : "ADTT2704_22",
+  "description" : "MBA&E Alternative Drive Train Tehnologies",
+  "tags" : [ "alternative drive train technologies" ],
+  "categories" : [ "Wirtschaftswissenschaften", "Energietechnik / Umwelttechnik" ]
 }, {
   "title" : "Laser für die Dünnschicht-Photovoltaik",
   "description" : "Laser-Material-Bearbeitung und Funktionsweise von Dünnschichtsolarzellen",
   "tags" : [ "photovoltaik", "solarenergie", "laser", "dünne schichten", "materialbearbeitung", "solarzelle" ],
-  "categories" : [ "Kategorien: Naturwissenschaften, Energietechnik / Umwelttechnik, Physik" ]
+  "categories" : [ "Naturwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
 }, {
-  "title" : "Osteraktion Lehrenden-Service-Center (LSC)",
-  "description" : "Video-Teaser zur Osteraktion des Lehrenden-Service-Centers (LSC) am 19.04.2022.",
-  "tags" : [ "lsc", "ostern", "lehrgut" ],
-  "categories" : [ "Kategorien: HTW Berlin, Kommunikation" ]
+  "title" : "AWE Internationale Standardisierung Teil 5 Konformität",
+  "description" : "Konfomitätsverfahren nach IEC",
+  "tags" : [ "awe internationale standardisierung teil 5 konformität" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
 }, {
-  "title" : "Bestimmung der Erdbeschleunigung g (Auswertung)",
-  "description" : "Auswertung des Laborversuchs \"Bestimmung der Erdbeschleunigung g\"",
-  "tags" : [ "physik", "labor" ],
-  "categories" : [ "Kategorien: Physik" ]
+  "title" : "AWE Internationale Standardisierung 7",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
 }, {
-  "title" : "Audiovorlesung_StraMa_11.04.2022",
-  "description" : "Vorlesung als Audio Datei",
-  "tags" : [ "strama" ],
-  "categories" : [ "Kategorien: HTW Berlin, Wirtschaftswissenschaften" ]
+  "title" : "AWE Internationale Standardisierung 8",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 9",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 6",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 2",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 3",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 4",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 5",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung 1",
+  "description" : "Vorlesungsaufzeichnungen Teil 2, 3 und",
+  "tags" : [ "awe internationale standardisierung teile 2 bis 4" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Kommunikation", "Mathematik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 2-1 EU",
+  "description" : "Rolle der EU in der europäischen Standardissierung",
+  "tags" : [ "awe internationale standardisierung teil 2-1 eu" ],
+  "categories" : [ "HTW Berlin", "Bauingenieurwesen", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Kommunikation", "Naturwissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE", "Chemie" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 1",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 2",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 3",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "AWE Internationale Standardisierung Teil 1.1 bis 1.4 4",
+  "description" : "Vorlesungsskript mit Audio Auszeichnungen zur Prüfungsvorbereitung",
+  "tags" : [ "internationale standardisierung" ],
+  "categories" : [ "HTW Berlin", "Elektrotechnik / Elektronik / Nachrichtentechnik", "Informatik", "Naturwissenschaften", "Rechtswissenschaften", "Wirtschaftswissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik", "Maschinenbau", "Gebäudeenergie- und -informationstechnik", "AWE" ]
+}, {
+  "title" : "Denkanstöße für mehr Kunststoffe im Kreislauf",
+  "description" : "Elias Rogov, 577917, Gruppe 12",
+  "tags" : [ "controlling" ],
+  "categories" : [ "Energietechnik / Umwelttechnik", "Chemie" ]
+}, {
+  "title" : "Laser-Strukturierung von Solarzellen: Untersuchung der Laser-Material-Wechselwirkungen und induzierten Materialveränderungen",
+  "description" : "invited Talk im 73. Arbeitskreis Systemzuverlässigkeit am Fraunhofer IZM 2021",
+  "tags" : [ "laser", "pv", "dünnschicht" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
+}, {
+  "title" : "FB1 WT Werkstoffe (LPr) - Anleitung zum Versuch der Bestimmung des Bestimmung des Sperrsättigungsstrom",
+  "description" : "Lehrfilm in Ergänzung zur Anleitung der Laborversuchs Bestimmung des Sperrsättigungsstrom Werkstoffe 1. Semester Bachelor",
+  "tags" : [ "diode", "sperrstrom" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
+}, {
+  "title" : "FB1 WT Werkstoffe (LPr) - Anleitung zum Versuch der Bestimmung der Mikrohärte",
+  "description" : "Lehrfilm in Ergänzung zur Anleitung des Laborversuchs Mikrohärte Werkstoffe 1. Semester Bachelor",
+  "tags" : [ "dünne schichten", "mikrohärte" ],
+  "categories" : [ "Elektrotechnik / Elektronik / Nachrichtentechnik", "Naturwissenschaften", "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Physik" ]
+}, {
+  "title" : "Wärmeausdehnung",
+  "description" : "Werkstoffe im Studiengang Regenerative Energien, SoSe 2021 Wärmeausdehnung",
+  "tags" : [ "regenerative energien", "werkstoffe" ],
+  "categories" : [ "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Werkstofftechnik" ]
+}, {
+  "title" : "Präsentation Klein-Biogasanlagen in Low-Income-Countries",
+  "description" : "von Milijana Keseric und Leon Bischoff",
+  "tags" : [ "biogaskleinanlagen 75-150kw" ],
+  "categories" : [ "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik" ]
+}, {
+  "title" : "Gitterbaufehler",
+  "description" : "Werkstoffe im Studiengang Regenerative Energien, SoSe 2021 Gitterbaufehler",
+  "tags" : [ "regenerative energien", "werkstoffe" ],
+  "categories" : [ "Ingenieurwissenschaften", "Energietechnik / Umwelttechnik", "Werkstofftechnik" ]
 } ]
